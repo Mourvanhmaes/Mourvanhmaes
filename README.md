@@ -1,9 +1,9 @@
 <h1 align="center">
-👋 Mourvan Henrique Maes
+💻 Mourvan Henrique Maes 💻
 </h1>
 
 <h3 align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+🌐 Estudante de Análise e Desenvolvimento de Sistemas
 </h3>
 
 
