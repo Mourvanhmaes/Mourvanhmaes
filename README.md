@@ -11,8 +11,6 @@
 
 <div align="center">
 
-## 🚀 Tecnologias
-
 <img src="https://skillicons.dev/icons?i=java,postgres,html,css,js,git,github,maven"/>
 
 </div>
