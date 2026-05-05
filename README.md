@@ -41,4 +41,8 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourvanhmaes&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mourvanhmaes&layout=compact&theme=tokyonight"/>
+
+</div>
