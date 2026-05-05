@@ -41,10 +41,3 @@
 
 </div>
 
-<div align="center">
-
-## 📊 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourvanhmaes&layout=compact&theme=tokyonight)
-
-</div>
