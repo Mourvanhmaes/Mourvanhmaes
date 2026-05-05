@@ -40,3 +40,11 @@
 ⭐ Obrigado por visitar meu perfil ⭐
 
 </div>
+
+<div align="center">
+
+![Mourvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mourvanhmaes&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourvanhmaes&layout=compact)
+
+</div>
