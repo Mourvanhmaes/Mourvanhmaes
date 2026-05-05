@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Olá, eu sou Mourvan Henrique Maes
+👋 Mourvan Henrique Maes
 </h1>
 
 <h3 align="center">
