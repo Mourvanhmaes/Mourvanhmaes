@@ -1,5 +1,5 @@
 <h1 align="center">
-💻 Mourvan Henrique Maes 💻
+💻 Mourvan Maes 💻
 </h1>
 
 <h3 align="center">
